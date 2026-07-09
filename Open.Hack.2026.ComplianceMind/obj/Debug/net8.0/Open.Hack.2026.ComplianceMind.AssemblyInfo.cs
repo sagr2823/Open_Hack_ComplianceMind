@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Open.Hack.2026.ComplianceMind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8607e80c1eeea50e161c7c6db47bea1ebf90514d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ca25179859d7c4294d980fedbc226860a01445c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Open.Hack.2026.ComplianceMind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Open.Hack.2026.ComplianceMind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
