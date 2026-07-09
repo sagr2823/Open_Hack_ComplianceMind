@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Open.Hack._2026.ComplianceMind.Application.Exception
+{
+    internal class Exception
+    {
+    }
+}

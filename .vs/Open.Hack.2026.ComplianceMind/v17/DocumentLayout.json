@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D47C8-9E52-4514-A52D-C00654546820}|Open.Hack.2026.ComplianceMind.Application\\Open.Hack.2026.ComplianceMind.Application.csproj|d:\\hackathon 2026\\backend\\open.hack.2026.compliancemind\\open.hack.2026.compliancemind.application\\behaviour\\behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48D47C8-9E52-4514-A52D-C00654546820}|Open.Hack.2026.ComplianceMind.Application\\Open.Hack.2026.ComplianceMind.Application.csproj|solutionrelative:open.hack.2026.compliancemind.application\\behaviour\\behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D47C8-9E52-4514-A52D-C00654546820}|Open.Hack.2026.ComplianceMind.Application\\Open.Hack.2026.ComplianceMind.Application.csproj|d:\\hackathon 2026\\backend\\open.hack.2026.compliancemind\\open.hack.2026.compliancemind.application\\common\\comon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48D47C8-9E52-4514-A52D-C00654546820}|Open.Hack.2026.ComplianceMind.Application\\Open.Hack.2026.ComplianceMind.Application.csproj|solutionrelative:open.hack.2026.compliancemind.application\\common\\comon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D47C8-9E52-4514-A52D-C00654546820}|Open.Hack.2026.ComplianceMind.Application\\Open.Hack.2026.ComplianceMind.Application.csproj|d:\\hackathon 2026\\backend\\open.hack.2026.compliancemind\\open.hack.2026.compliancemind.application\\exception\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48D47C8-9E52-4514-A52D-C00654546820}|Open.Hack.2026.ComplianceMind.Application\\Open.Hack.2026.ComplianceMind.Application.csproj|solutionrelative:open.hack.2026.compliancemind.application\\exception\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D47C8-9E52-4514-A52D-C00654546820}|Open.Hack.2026.ComplianceMind.Application\\Open.Hack.2026.ComplianceMind.Application.csproj|d:\\hackathon 2026\\backend\\open.hack.2026.compliancemind\\open.hack.2026.compliancemind.application\\dtos\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48D47C8-9E52-4514-A52D-C00654546820}|Open.Hack.2026.ComplianceMind.Application\\Open.Hack.2026.ComplianceMind.Application.csproj|solutionrelative:open.hack.2026.compliancemind.application\\dtos\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D47C8-9E52-4514-A52D-C00654546820}|Open.Hack.2026.ComplianceMind.Application\\Open.Hack.2026.ComplianceMind.Application.csproj|d:\\hackathon 2026\\backend\\open.hack.2026.compliancemind\\open.hack.2026.compliancemind.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48D47C8-9E52-4514-A52D-C00654546820}|Open.Hack.2026.ComplianceMind.Application\\Open.Hack.2026.ComplianceMind.Application.csproj|solutionrelative:open.hack.2026.compliancemind.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3972428F-A61A-4D81-AF50-F6F2C75C93ED}|Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.csproj|d:\\hackathon 2026\\backend\\open.hack.2026.compliancemind\\open.hack.2026.compliancemind\\configurations\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3972428F-A61A-4D81-AF50-F6F2C75C93ED}|Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.csproj|solutionrelative:open.hack.2026.compliancemind\\configurations\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3972428F-A61A-4D81-AF50-F6F2C75C93ED}|Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.csproj|d:\\hackathon 2026\\backend\\open.hack.2026.compliancemind\\open.hack.2026.compliancemind\\open.hack.2026.compliancemind.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3972428F-A61A-4D81-AF50-F6F2C75C93ED}|Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.csproj|solutionrelative:open.hack.2026.compliancemind\\open.hack.2026.compliancemind.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3972428F-A61A-4D81-AF50-F6F2C75C93ED}|Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.csproj|d:\\hackathon 2026\\backend\\open.hack.2026.compliancemind\\open.hack.2026.compliancemind\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3972428F-A61A-4D81-AF50-F6F2C75C93ED}|Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.csproj|solutionrelative:open.hack.2026.compliancemind\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Behaviour.cs",
+              "DocumentMoniker": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.Application\\Behaviour\\Behaviour.cs",
+              "RelativeDocumentMoniker": "Open.Hack.2026.ComplianceMind.Application\\Behaviour\\Behaviour.cs",
+              "ToolTip": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.Application\\Behaviour\\Behaviour.cs",
+              "RelativeToolTip": "Open.Hack.2026.ComplianceMind.Application\\Behaviour\\Behaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:57:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comon.cs",
+              "DocumentMoniker": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.Application\\Common\\Comon.cs",
+              "RelativeDocumentMoniker": "Open.Hack.2026.ComplianceMind.Application\\Common\\Comon.cs",
+              "ToolTip": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.Application\\Common\\Comon.cs",
+              "RelativeToolTip": "Open.Hack.2026.ComplianceMind.Application\\Common\\Comon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:55:35.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exception.cs",
+              "DocumentMoniker": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.Application\\Exception\\Exception.cs",
+              "RelativeDocumentMoniker": "Open.Hack.2026.ComplianceMind.Application\\Exception\\Exception.cs",
+              "ToolTip": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.Application\\Exception\\Exception.cs",
+              "RelativeToolTip": "Open.Hack.2026.ComplianceMind.Application\\Exception\\Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:55:08.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.Application\\Dtos\\Policy.cs",
+              "RelativeDocumentMoniker": "Open.Hack.2026.ComplianceMind.Application\\Dtos\\Policy.cs",
+              "ToolTip": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.Application\\Dtos\\Policy.cs",
+              "RelativeToolTip": "Open.Hack.2026.ComplianceMind.Application\\Dtos\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T22:10:54.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Open.Hack.2026.ComplianceMind.Application\\Class1.cs",
+              "ToolTip": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.Application\\Class1.cs",
+              "RelativeToolTip": "Open.Hack.2026.ComplianceMind.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T22:09:34.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test.cs",
+              "DocumentMoniker": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind\\Configurations\\test.cs",
+              "RelativeDocumentMoniker": "Open.Hack.2026.ComplianceMind\\Configurations\\test.cs",
+              "ToolTip": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind\\Configurations\\test.cs",
+              "RelativeToolTip": "Open.Hack.2026.ComplianceMind\\Configurations\\test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T22:06:06.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Open.Hack.2026.ComplianceMind.csproj",
+              "DocumentMoniker": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.csproj",
+              "RelativeDocumentMoniker": "Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.csproj",
+              "ToolTip": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.csproj",
+              "RelativeToolTip": "Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-08T22:04:11.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind\\appsettings.json",
+              "RelativeDocumentMoniker": "Open.Hack.2026.ComplianceMind\\appsettings.json",
+              "ToolTip": "D:\\Hackathon 2026\\Backend\\Open.Hack.2026.ComplianceMind\\Open.Hack.2026.ComplianceMind\\appsettings.json",
+              "RelativeToolTip": "Open.Hack.2026.ComplianceMind\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-08T22:00:48.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

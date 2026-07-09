@@ -1,0 +1,6 @@
+@Open.Hack._2026.ComplianceMind_HostAddress = http://localhost:5076
+
+GET {{Open.Hack._2026.ComplianceMind_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
